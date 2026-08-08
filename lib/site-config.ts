@@ -62,8 +62,14 @@ export const socialConfig = {
 // section bilkul render hi nahi hoga — koi blank space nahi dikhega.
 // ----------------------------------------------------------------------------
 export const appScreenshots: string[] = [
-  // '/images/screenshot-1.png',
-  // '/images/screenshot-2.png',
+  '/images/screenshot-1.png',
+  '/images/screenshot-2.png',
+  '/images/screenshot-3.png',
+  '/images/screenshot-4.png',
+  '/images/screenshot-5.png',
+  '/images/screenshot-6.png',
+  '/images/screenshot-7.png',
+  '/images/screenshot-8.png',
 ];
 
 // ----------------------------------------------------------------------------
